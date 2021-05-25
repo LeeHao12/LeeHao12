@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p align="center"> 
-  Visitor count<br>
+<p align="left"> 
+  Visitor Count<br>
   <img src="https://profile-counter.glitch.me/leehao12/count.svg" />
 </p>
 
