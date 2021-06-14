@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<p align="left"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/leehao12/count.svg" />
-</p>
+### Hi 👋
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehao12&show_icons=true&theme=gruvbox"/>
